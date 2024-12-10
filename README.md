@@ -1,8 +1,7 @@
-Hi *Waving hand* I’m Norsyairah Binti Abdul Manan
-UTM Student
-I am a student studying in Bachelor of Computer Science ( Software Engineering ) with Honours in University of Technology Malaysia (UTM Space).
-
-- 👋 Hi, I’m Norsyairah Binti Abdul Manan
+Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> I’m Norsyairah Binti Abdul Manan
+------------------------------------------------------------------------------------------------------------------------------
+UTM Space Student
+------------------------------------------------------------------------------------------------------------------------------
 - 🌍 I’m live in Selangor, Malaysia
 - 👩‍🎓 I’m currently learning Bachelor of Computer Science ( Software Engineering ) with Honours
 - 🤝 I’m open to collaborate on assignments and projects
