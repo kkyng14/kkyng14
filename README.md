@@ -1,12 +1,12 @@
 Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" />  I’m Norsyairah Binti Abdul Manan
-------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 UTM Space Student
-------------------------------------------------------------------------------------------------------------------------------
-- 🌍 I’m live at Selangor, Malaysia
-- 👩‍🎓 I’m currently learning Bachelor of Computer Science ( Software Engineering ) with Honours
-- 🤝 I’m open to collaborate on assignments and projects
-- 📫 You can reach me at sp-norsyairahabdulmanan@graduate.utm.my
-- 👩‍🏭 I’m currently working at NXP Semiconductors Malaysia
+----------------------------------------------------------------------------------------------------------------------------
+> - 🌍 I’m live at Selangor, Malaysia
+> - 👩‍🎓 I’m currently learning Bachelor of Computer Science ( Software Engineering ) with Honours
+> - 🤝 I’m open to collaborate on assignments and projects
+> - 📫 You can reach me at sp-norsyairahabdulmanan@graduate.utm.my
+> - 👩‍🏭 I’m currently working at NXP Semiconductors Malaysia
 
 
 <!---
@@ -43,4 +43,4 @@ My GitHub Status
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkyng14&show_icons=true&theme=dracula)
 
-gh skyline --full
+![Syairah's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kkyng14&hide=B&theme=dracula)
