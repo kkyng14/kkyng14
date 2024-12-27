@@ -37,6 +37,15 @@ Learning Language and Tools
           
 </p>
 
+Connect with me
+----------------------------------------------------------------------------------------------------------------------------
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+
+</p>
+
 My GitHub Status
 ----------------------------------------------------------------------------------------------------------------------------
 ![Syairah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyng14&show_icons=true&theme=dracula)
@@ -44,3 +53,5 @@ My GitHub Status
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkyng14&show_icons=true&theme=dracula)
 
 ![Syairah's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kkyng14&hide=B&theme=dracula)
+
+
