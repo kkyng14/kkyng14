@@ -9,11 +9,6 @@ UTM Space Student
 > - 👩‍🏭 I’m currently working at NXP Semiconductors Malaysia
 
 
-<!---
-kkyng14/kkyng14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Learning Tools
 ----------------------------------------------------------------------------------------------------------------------------
 <p>
