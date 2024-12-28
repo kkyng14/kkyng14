@@ -42,4 +42,4 @@ Reflection
 Based on examples provided by Dr Aryati Yatib, I gained knowlegde about GitHub.
 
 GitHub is a good platform to share coding or alogrithm but for me who doesn't know anything about GitHub its a hassle for me to put some coding to make my repository beatiful.
-My suggestion is, GitHub can highlight coding error so that we can amendement the coding.
+My suggestion is, GitHub can highlight coding error so that we can amendement the coding before we commit the repository.
