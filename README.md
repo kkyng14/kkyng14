@@ -28,7 +28,7 @@ Connect with me
 ----------------------------------------------------------------------------------------------------------------------------
 <p>
 
-<a href="[https://www.linkedin.com/in/syairah-manan-55706417a/](https://www.facebook.com/akuky14/)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/>
+<a href="https://www.facebook.com/akuky14/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/>
 <a href="https://www.linkedin.com/in/syairah-manan-55706417a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
 
 </p>
